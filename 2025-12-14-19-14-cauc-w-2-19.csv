@@ -1,6 +1,6 @@
 地点：海南,海口市,天气状况：阴,温度：17,摄氏度,风向：东,风力：≤3,湿度：73%
-姓名：小冯,证件号：e199,年龄：19,性别：女,视力：5.2,曾感染新冠病毒：是,,
-order,IdealDecision,RealDecision,correctness,time,,,
+姓名：小冯,证件号：e199,年龄：19,性别：男,视力：5.2,曾感染新冠病毒：是,,
+Number,IdealDecision,RealDecision,Correctness,Time(s),,,
 1,I,I,T,33.7936,,,
 2,I,I,T,0.4495,,,
 3,I,N,F,0.6579,,,
